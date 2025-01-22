@@ -8,8 +8,6 @@ if (!process.env.GEMINI_API_KEY) {
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
 export async function promtAI(prompt: string) {
-  log("info", "Starting article generation");
-
   try {
     const model = genAI.getGenerativeModel({
       model: "gemini-2.0-flash-exp",

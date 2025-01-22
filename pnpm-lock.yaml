@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@google/generative-ai':
         specifier: ^0.21.0
-        version: 1.0.4
+        version: 1.0.5
       dotenv:
         specifier: ^16.4.7
         version: 16.4.7
