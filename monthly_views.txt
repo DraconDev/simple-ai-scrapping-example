@@ -1,7 +1,9 @@
-Channel Name: ididathing,
-       Monthly Views: 7310000,
-       Monthly Subscribers: 20000,
-       Subscriber Count: 5330000,
-       Total Views: 765706207,
-       Estimated Revenue: $12K-$34K,
-      
+{
+  "timestamp": "2025-01-22T22:28:27.774Z",
+  "channel_name": "ididathing",
+  "monthly_views": 7310000,
+  "monthly_subscribers": 20000,
+  "subscriber_count": 5330000,
+  "total_views": 765706207,
+  "estimated_revenue": "$12K-$34K"
+}
