@@ -1,9 +1,0 @@
-{
-  "timestamp": "2025-01-22T22:28:27.774Z",
-  "channel_name": "ididathing",
-  "monthly_views": 7310000,
-  "monthly_subscribers": 20000,
-  "subscriber_count": 5330000,
-  "total_views": 765706207,
-  "estimated_revenue": "$12K-$34K"
-}
